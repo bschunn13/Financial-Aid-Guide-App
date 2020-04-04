@@ -1,0 +1,2 @@
+# Financial-Aid-Guide-App
+The Financial Aid Guide app is an application written in Java that was created as a senior project for my bachelor's degree program. The app can be used to create a custom PDF document containing important information about college costs and financial aid that can help first-time students to save money on their college expenses. Please see the README file for more detailed information.
