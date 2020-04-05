@@ -3,6 +3,8 @@ The Financial Aid Guide app is an application written in Java that was created a
 
 This application was written in Java and utilizes the iText external Java library (version 7.1.9) for the purposes of creating a PDF document. You can find more information and documentation for this library on itextpdf.com.
 
+The average costs for tuition and housing that are used in the application were obtained using averages from the previous 2018-2019 school year. These figures will be updated as data for the next school year becomes available.
+
 # Downloading the Application
 When downloading the application file, it is strongly recommended that users save the application to the desktop to avoid potential issues with creating and saving the PDF document.
 
